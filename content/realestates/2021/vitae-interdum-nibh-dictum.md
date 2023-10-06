@@ -1,34 +1,33 @@
 ---
 isIndex: false
-date: 2023-10-01T10:34:08.410Z
-title: Sed facilisis ligula vel dapibus venenatis
+date: 2021-05-01T10:34:08.410Z
+title: Vitae interdum nibh dictum
 description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas.
 realestates_persons:
   - alexandre-petit
 realestates_types: Maison
 reference: ID012453687
 image:
-  src: /images/uploads/digital-marketing-agency-ntwrk-g39p1kDjvSY-unsplash.jpg
+  src: /images/uploads/zac-gudakov-wwqZ8CM21gg-unsplash.jpg
 address:
   coordinates:
     lat: 20.8518760
     lng: -86.880000
 offer:
-  price: 4000000
-  sold: false
+  price: 550000
+  sold: true
 diagnostic:
-  kwh: 125
-  co2: 6
+  kwh: 105
+  co2: 2
 informations:
   year: 2000
-  rooms: 5
-  bedrooms: 3
+  rooms: 3
+  bedrooms: 2
   bathrooms: 1
-  showerrooms: 2
   levels: 2
   floor: 0
-  area: 250
-  field: 600
+  area: 160
+  field: 200
 ---
 Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas. Vivamus consequat leo justo. Sed eu elit nibh. Vestibulum volutpat et nulla quis dapibus. Nunc vel pellentesque lorem. 
 
@@ -37,4 +36,4 @@ Donec vel consequat augue. Nullam aliquet sed sem sit amet tristique.
 
 
 
-Mauris ac massa velit. Sed facilisis ligula vel dapibus venenatis. Quisque ipsum nisi, tempor quis fermentum non, iaculis vel augue. Fusce pellentesque nisi hendrerit velit maximus, vitae interdum nibh dictum. Integer malesuada ultrices ipsum non iaculis.
+Mauris ac massa velit. Sed facilisis ligula vel dapibus venenatis. Quisque ipsum nisi, tempor quis fermentum non, iaculis vel augue. Fusce pellentesque nisi hendrerit velit maximus, 4. Integer malesuada ultrices ipsum non iaculis.

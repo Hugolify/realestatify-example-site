@@ -1,4 +1,7 @@
 links:
+  - blank: false
+    title: Les biens à vendre
+    url: /ventes-immobilieres/
   - title: Les agences
     url: /agences/
     links:
@@ -6,10 +9,7 @@ links:
         url: /agences/paris/
       - title: Bordeaux
         url: /agences/bordeaux/
-  - title: L’équipe
-    url: /equipe/
-  - blank: false
-    title: Les biens à vendre
-    url: /ventes-immobilieres/
+  # - title: L’équipe
+  #   url: /equipe/
   - title: Contact
     url: /contact/

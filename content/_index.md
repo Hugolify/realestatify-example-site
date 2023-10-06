@@ -19,7 +19,7 @@ blocks:
     section: realestates
     count: 6
     show_more: true
-    background: true
+    background: false
     heading:
       title: Les biens en vente
   - type: selected-places
