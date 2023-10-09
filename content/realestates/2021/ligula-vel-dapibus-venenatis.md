@@ -1,40 +1,33 @@
 ---
 isIndex: false
-date: 2021-05-01T10:34:08.410Z
-title: Integer malesuada ultrices ipsum non iaculis
+date: 2021-03-01T10:34:08.410Z
+title: ligula vel dapibus venenatis
 description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas.
 realestates_persons:
   - alexandre-petit
 realestates_types: Maison
 reference: ID012453687
 image:
-  src: /images/uploads/r-architecture-wJAOeXvxudM-unsplash.jpg
+  src: /images/uploads/francesca-tosolini-qnSTxcs0EEs-unsplash.jpg
 address:
   coordinates:
-    lat: 44.6426082
-    lng: -1.2501305
+    lat: 20.8518760
+    lng: -86.880000
 offer:
-  price: 850000
+  price: 550000
   sold: true
 diagnostic:
   kwh: 105
   co2: 2
 informations:
-  year: 2015
+  year: 2000
   rooms: 3
   bedrooms: 2
   bathrooms: 1
   levels: 2
-  area: 250
-  field: 50
-  district: 44 hectares
-gallery:
-  - src: /images/uploads/r-architecture-wJAOeXvxudM-unsplash.jpg
-  - src: /images/uploads/r-architecture-wDDfbanbhl8-unsplash.jpg
-  - src: /images/uploads/r-architecture-UypLIU-gkK8-unsplash.jpg
-  - src: /images/uploads/r-architecture-U6Ds9z7i3VQ-unsplash.jpg
-  - src: /images/uploads/r-architecture-M6E8SO73MPY-unsplash.jpg
-  - src: /images/uploads/r-architecture-IR6DoHgwUvo-unsplash.jpg
+  floor: 0
+  area: 160
+  field: 200
 ---
 Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas. Vivamus consequat leo justo. Sed eu elit nibh. Vestibulum volutpat et nulla quis dapibus. Nunc vel pellentesque lorem. 
 

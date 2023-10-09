@@ -1,35 +1,32 @@
 ---
 isIndex: false
-date: 2023-09-05T10:34:08.410Z
-title: Duis vehicula a tortor nec egestas
-description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas.
+date: 2023-08-06T10:34:08.410Z
+title: Vitae interdum nibh dictum
+description: ultrices ipsum non iaculis
 realestates_persons:
   - alexandre-petit
 realestates_types: Maison
 reference: ID012453687
 image:
-  src: /images/uploads/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg
+  src: /images/uploads/webaliser-_TPTXZd9mOo-unsplash.jpg
 address:
   coordinates:
     lat: 20.8518760
     lng: -86.880000
 offer:
+  price: 750000
   sold: false
-  price: 550000
-  hide_price: true
-  status: Nous consulter
 diagnostic:
-  kwh: 105
+  kwh: 35
   co2: 2
 informations:
   year: 2010
-  rooms: 3
-  bedrooms: 2
-  bathrooms: 1
-  levels: 2
+  rooms: 5
+  bedrooms: 3
+  bathrooms: 2
+  levels: 3
   floor: 0
-  area: 160
-  field: 200
+  area: 230
 ---
 Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas. Vivamus consequat leo justo. Sed eu elit nibh. Vestibulum volutpat et nulla quis dapibus. Nunc vel pellentesque lorem. 
 

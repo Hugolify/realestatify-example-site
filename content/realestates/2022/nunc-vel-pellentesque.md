@@ -1,23 +1,21 @@
 ---
 isIndex: false
-date: 2023-09-05T10:34:08.410Z
-title: Duis vehicula a tortor nec egestas
+date: 2022-03-01T10:34:08.410Z
+title: Nunc vel pellentesque
 description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas.
 realestates_persons:
   - alexandre-petit
 realestates_types: Maison
 reference: ID012453687
 image:
-  src: /images/uploads/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg
+  src: /images/uploads/francesca-tosolini-LL9V0iMpStM-unsplash.jpg
 address:
   coordinates:
     lat: 20.8518760
     lng: -86.880000
 offer:
-  sold: false
   price: 550000
-  hide_price: true
-  status: Nous consulter
+  sold: false
 diagnostic:
   kwh: 105
   co2: 2
