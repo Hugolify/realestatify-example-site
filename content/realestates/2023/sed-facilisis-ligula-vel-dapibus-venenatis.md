@@ -1,6 +1,6 @@
 ---
 isIndex: false
-date: 2023-10-01T10:34:08.410Z
+date: 2023-10-02T10:34:08.410Z
 title: Sed facilisis ligula vel dapibus venenatis
 description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas.
 realestates_persons:
