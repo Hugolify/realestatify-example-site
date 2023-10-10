@@ -31,4 +31,12 @@ blocks:
     items:
       - paris
       - bordeaux
+  - type: cta
+    heading:
+      title: Contactez-nous
+      text: Curabitur scelerisque sollicitudin lobortis.
+    cta:
+      blank: false
+      text: Contactez-nous
+      url: /contact/
 ---
