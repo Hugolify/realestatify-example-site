@@ -19,6 +19,10 @@ offer:
 diagnostic:
   kwh: 105
   co2: 2
+keyfeatures:
+  - title: Cras consectetur turpis
+    text: Duis vehicula a tortor nec egestas
+    icon: pin-map-fill
 informations:
   year: 2015
   rooms: 3
