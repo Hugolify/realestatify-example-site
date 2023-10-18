@@ -2,12 +2,10 @@ links:
   - blank: false
     title: Les biens à vendre
     url: /ventes-immobilieres/
+  - blank: false
+    title: Les biens vendus
+    url: /biens-vendus/
   - title: Les agences
     url: /agences/
-    links:
-      - title: Paris
-        url: /agences/paris/
-      - title: Bordeaux
-        url: /agences/bordeaux/
   - title: Contact
     url: /contact/
