@@ -5,7 +5,7 @@ title: Vitae interdum nibh dictum
 description: ultrices ipsum non iaculis
 realestates_persons:
   - alexandre-petit
-realestates_types: Maison
+realestates_categories: Maison
 reference: ID012453687
 image:
   src: /images/uploads/webaliser-_TPTXZd9mOo-unsplash.jpg

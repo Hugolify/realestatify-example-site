@@ -5,7 +5,7 @@ title: Sed facilisis ligula vel dapibus venenatis
 description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas.
 realestates_persons:
   - alexandre-petit
-realestates_types: Maison
+realestates_categories: Maison
 reference: ID012453687
 image:
   src: /images/uploads/digital-marketing-agency-ntwrk-g39p1kDjvSY-unsplash.jpg

@@ -5,7 +5,7 @@ title: Cras consectetur
 description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas.
 realestates_persons:
   - alexandre-petit
-realestates_types: Appartement
+realestates_categories: Appartement
 reference: ID012453687
 image:
   src: /images/uploads/huy-nguyen-AB-q9lwCVv8-unsplash.jpg

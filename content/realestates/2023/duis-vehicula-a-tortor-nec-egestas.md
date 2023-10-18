@@ -5,7 +5,7 @@ title: Duis vehicula a tortor nec egestas
 description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas.
 realestates_persons:
   - alexandre-petit
-realestates_types: Maison
+realestates_categories: Maison
 reference: ID012453687
 image:
   src: /images/uploads/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg

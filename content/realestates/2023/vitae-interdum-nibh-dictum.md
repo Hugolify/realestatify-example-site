@@ -6,7 +6,7 @@ description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tor
 realestates_persons:
   - alexandre-petit
   - clement-thomas
-realestates_types: Appartement
+realestates_categories: Appartement
 reference: ID012453687
 image:
   src: /images/uploads/beazy-pMY1mpaaUAs-unsplash.jpg
