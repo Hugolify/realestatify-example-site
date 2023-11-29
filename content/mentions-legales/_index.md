@@ -4,9 +4,10 @@ draft: false
 title: Mentions légales
 description: Page des mentions légales
 ---
+
 En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions ci-dessous et vous vous engagez à les respecter. Les mentions légales indiquées ci-dessous peuvent être amenées à évoluer, nous vous invitons à les consulter régulièrement.
 
-*Date de dernière mise à jour : octobre 2023*
+_Date de dernière mise à jour : octobre 2023_
 
 ## Publication
 
@@ -26,7 +27,6 @@ California 94107,\
 United States
 
 {{< blank_link link="https://www.netlify.com" text="www.netlify.com" >}}
-
 
 ## Conception
 

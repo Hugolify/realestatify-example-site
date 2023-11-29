@@ -5,7 +5,7 @@ title: Paris
 description: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc.
 address:
   street: 6 Parvis Notre-Dame - Pl. Jean-Paul II
-  zipcode: "75004"
+  zipcode: '75004'
   city: Paris
   country: France
 contact:
@@ -25,16 +25,11 @@ blocks:
     title: Nullam aliquet sed sem sit amet tristique.
     text: Quisque ipsum nisi, tempor quis fermentum non, iaculis vel augue.
 ---
-Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum. 
 
-
+Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
 
 Donec varius velit nisi, a accumsan odio molestie ut. Donec quis tristique elit. Nunc tempus tempor neque a fringilla.
 
-
-
-Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus felis ante, eget commodo ex ullamcorper eu. Cras vel tincidunt urna. 
-
-
+Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus felis ante, eget commodo ex ullamcorper eu. Cras vel tincidunt urna.
 
 Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
