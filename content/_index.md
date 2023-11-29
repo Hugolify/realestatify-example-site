@@ -9,7 +9,7 @@ hero:
   cta:
     blank: false
     text: Décourvrir
-    url: "#main"
+    url: '#main'
   cta_second:
     text: Realestatify
     url: https://www.realestatify.io

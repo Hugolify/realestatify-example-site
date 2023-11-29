@@ -15,8 +15,9 @@ contact:
   phone: +33 (0) 1 12 34 56 78
   fax: +33 (0) 1 12 34 56 78
   linkedin: https://www.linkedin.com/
-  twitter: "#"
+  twitter: '#'
 ---
-Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. 
+
+Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue.
 
 Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus felis ante, eget commodo ex ullamcorper eu. Cras vel tincidunt urna. Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
