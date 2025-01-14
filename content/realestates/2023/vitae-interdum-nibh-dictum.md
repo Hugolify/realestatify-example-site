@@ -29,6 +29,9 @@ informations:
   levels: 1
   floor: 5
   area: 130
+  has_elevator: true
+  has_garage: true
+  has_cave: true
 ---
 
 Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas. Vivamus consequat leo justo. Sed eu elit nibh. Vestibulum volutpat et nulla quis dapibus. Nunc vel pellentesque lorem.
